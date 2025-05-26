@@ -50,3 +50,20 @@ unmanned-space-mission/
 ├── circuit-diagram.png # Schematic
 ├── rover-photo.jpg # Physical build
 ├── README.md # This file
+
+## Setup Instructions
+
+1. Flash the ESP32-CAM with the Arduino code
+2. Connect to the Wi-Fi hotspot: `Unmanned Space Mission` / `Pass12123`
+3. Open browser at `192.168.4.1`
+4. Use the on-screen controls to move and view through the rover
+
+## License
+
+This project is open-source under the [MIT License](LICENSE)
+
+---
+
+## Let’s Connect!
+
+I’d love to collaborate or hear feedback from other enthusiasts in robotics, embedded systems, or space tech. Feel free to reach out!
